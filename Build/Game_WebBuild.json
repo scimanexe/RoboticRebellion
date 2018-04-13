@@ -1,0 +1,14 @@
+{
+"companyName": "SciManEXE",
+"productName": "SciManGAME",
+"dataUrl": "Game_WebBuild.data.unityweb",
+"asmCodeUrl": "Game_WebBuild.asm.code.unityweb",
+"asmMemoryUrl": "Game_WebBuild.asm.memory.unityweb",
+"asmFrameworkUrl": "Game_WebBuild.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Game_WebBuild.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
